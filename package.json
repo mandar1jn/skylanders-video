@@ -10,13 +10,13 @@
   "dependencies": {
     "@motion-canvas/2d": "^3.17.1",
     "@motion-canvas/core": "^3.17.0",
-    "@motion-canvas/ffmpeg": "^1.1.0",
+    "@motion-canvas/ffmpeg": "^3.17.0",
     "vite-plugin-arraybuffer": "^0.0.8"
   },
   "devDependencies": {
     "@motion-canvas/ui": "^3.17.0",
     "@motion-canvas/vite-plugin": "^3.17.0",
     "typescript": "^5.2.2",
-    "vite": "^4.0.0"
+    "vite": "^4.5.3"
   }
 }
